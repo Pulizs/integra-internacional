@@ -1,0 +1,17 @@
+.img-wrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  .img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+  }
+  .texto-home {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+  }
